@@ -13,14 +13,13 @@ return {
         treatment = 'Patiëntbehandeling',
         house_call = 'Huisbezoek',
         house_calls = 'Openstaande huisbezoeken',
-        status = 'Status'
+        status = 'Status',
     },
     ui = {
         alert_ems = '[%s] Ambulancedienst alarmeren',
         screen_dead = 'Overleden',
         screen_laststand = 'Kritieke toestand',
         hint_dead = 'Druk op [E] om te respawnen',
-        hint_laststand = 'Wacht op de ambulancedienst of kruip naar een veilige plek',
         respawn_after = 'Je kunt over %s respawnen.',
         respawn_medics = 'Respawnen is uitgeschakeld zolang er %d ambulancemedewerkers dienst hebben.',
         alert_description = 'Ambulancedienst: alarmeer de ambulance terwijl je overleden bent',
